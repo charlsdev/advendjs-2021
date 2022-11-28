@@ -1,0 +1,17 @@
+{
+   "name": "advenjs-2021",
+   "version": "1.0.0",
+   "description": "",
+   "main": "index.js",
+   "scripts": {
+      "prepare": "husky install"
+   },
+   "keywords": [],
+   "author": "",
+   "license": "ISC",
+   "devDependencies": {
+      "eslint": "^8.28.0",
+      "husky": "^8.0.2",
+      "lint-staged": "^13.0.4"
+   }
+}
