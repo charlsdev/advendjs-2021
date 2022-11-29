@@ -7,7 +7,7 @@ const ovejas = [
    { name: 'Nnnnnnnn', color: 'rojo'}
 ]
 
-export default function contarOvejas(ovejas) {
+function contarOvejas(ovejas) {
    return ovejas.filter(
       ovj =>
          ovj.color === 'rojo' &&
